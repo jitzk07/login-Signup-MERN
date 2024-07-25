@@ -1,0 +1,16 @@
+/* src/components/Signup.css */
+
+.signup-container {
+    text-align: center;
+  }
+  
+  .signup-container h1 {
+    margin-bottom: 2rem;
+  }
+  
+  .signup-container form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
